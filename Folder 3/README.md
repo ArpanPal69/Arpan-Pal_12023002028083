@@ -1,6 +1,5 @@
 # Coursera Certificate
 
-View the verified certificate here:
 Name: Arpan Pal
 Enrollment No: 12023002028083
 Certificate Name: Python for Automation 
