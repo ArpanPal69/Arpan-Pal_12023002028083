@@ -2,11 +2,17 @@
 
 **Name:** Arpan Pal
 
-**Enrollment No:** 12023002028083
+**College:** Institute of Engineering and Management, Kolkata
 
-**Gmail Id:** arpanpalbwn@gmail.com
+**Department:** CSE (AI & ML)
 
-**Institutional Mail Id:** arpan.pal2023@iem.edu.in
+**Enrollment No.:** 12023002028083
+
+**Registration No.:** 304202300901001
+
+**Email (Personal):** arpanpalbwn@gmail.com
+
+**Email (Institutional):** arpan.pal2023@iem.edu.in
 
 **Certificate Name:** Python for Automation
 
