@@ -1,0 +1,6 @@
+behave
+requests
+Faker
+jsonschema
+python-dotenv
+allure-behave
