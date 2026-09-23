@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Database & Network Timeouts",
+    "matchedStatuses": ["broken", "failed"],
+    "messageRegex": ".*Timeout.*"
+  },
+  {
+    "name": "API Response Code Errors",
+    "matchedStatuses": ["failed"],
+    "messageRegex": ".*Expected \\d+, but got.*"
+  },
+  {
+    "name": "Data Validation Errors",
+    "matchedStatuses": ["failed"],
+    "messageRegex": ".*Expected .*, got.*"
+  }
+]
