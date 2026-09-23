@@ -17,6 +17,12 @@
 
 ---
 
+## 🎥 Project Demonstration Video
+**Watch the full project walkthrough and execution here:**  
+[Project Demonstration Video](https://drive.google.com/file/d/1Y-3An79GkAZI0eFpdlAKFvjUIQ71uanw/view?usp=sharing)
+
+---
+
 ## 🎯 Objective
 To build a complete, scalable, and reusable API Automation Framework from scratch targeting the User Management API (`https://jsonplaceholder.typicode.com/`). The framework is engineered to industry standards, utilizing Python Requests, REST API Testing methodologies, Authentication simulation, the Behave BDD Framework, and dynamic Allure Reporting.
 
