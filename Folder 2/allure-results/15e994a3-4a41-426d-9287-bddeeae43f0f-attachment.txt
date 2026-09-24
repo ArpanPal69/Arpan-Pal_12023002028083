@@ -1,0 +1,14 @@
+URL: https://jsonplaceholder.typicode.com/users
+Payload: {
+  "name": "Nicole Jones",
+  "username": "frederick01",
+  "email": "anthonywalker@example.net"
+}
+
+Response Code: 201
+Response Body: {
+  "name": "Nicole Jones",
+  "username": "frederick01",
+  "email": "anthonywalker@example.net",
+  "id": 11
+}

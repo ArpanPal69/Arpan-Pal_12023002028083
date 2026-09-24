@@ -1,0 +1,14 @@
+URL: https://jsonplaceholder.typicode.com/users
+Payload: {
+  "name": "Arpan Pal",
+  "username": "arpanpal",
+  "email": "arpanpalbwn@gmail.com"
+}
+
+Response Code: 201
+Response Body: {
+  "name": "Arpan Pal",
+  "username": "arpanpal",
+  "email": "arpanpalbwn@gmail.com",
+  "id": 11
+}
