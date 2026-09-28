@@ -1,4 +1,3 @@
-# JSON Schema for strict API contract testing
 user_schema = {
     "type": "object",
     "properties": {

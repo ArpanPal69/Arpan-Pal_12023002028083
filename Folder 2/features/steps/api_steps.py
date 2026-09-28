@@ -15,7 +15,6 @@ def step_impl(context):
 def step_impl(context, name, username, email):
     payload = create_user_payload(name, username, email)
     
-    # Save the dynamically generated name for the assertion later (in case it was 'random')
     context.expected_name = payload["name"] 
     context.response = context.api.post(context.endpoint, payload)
 
@@ -28,10 +27,8 @@ def step_impl(context, status_code):
 def step_impl(context, expected_name):
     json_data = context.response.json()
     
-    # 1. API Contract Testing (JSON Schema Validation)
     validate(instance=json_data, schema=user_schema)
     
-    # 2. Dynamic Value Validation (checking if we used Faker)
     name_to_check = context.expected_name if expected_name == "random" else expected_name
     
     actual_name = json_data.get('name')
